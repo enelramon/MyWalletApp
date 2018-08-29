@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWalletApp", "MyWalletApp\MyWalletApp.csproj", "{FE7CCCAF-E29D-4E0C-9BFB-A8EC5C8C48FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWalletApp.Tests", "MyWalletApp.Tests\MyWalletApp.Tests.csproj", "{0C8FA5D7-AAD8-45FE-B420-A6B569028024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7CCCAF-E29D-4E0C-9BFB-A8EC5C8C48FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7CCCAF-E29D-4E0C-9BFB-A8EC5C8C48FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7CCCAF-E29D-4E0C-9BFB-A8EC5C8C48FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7CCCAF-E29D-4E0C-9BFB-A8EC5C8C48FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8FA5D7-AAD8-45FE-B420-A6B569028024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8FA5D7-AAD8-45FE-B420-A6B569028024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8FA5D7-AAD8-45FE-B420-A6B569028024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8FA5D7-AAD8-45FE-B420-A6B569028024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB8F615C-ED7D-4C87-9F98-B197C202C2A3}
+	EndGlobalSection
+EndGlobal
